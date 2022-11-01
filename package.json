@@ -1,6 +1,6 @@
 {
   "name": "@sanofi-iadc/passport-multi-jwt",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "description": "Passport authentication strategy using JSON Web Tokens with multiple providers. Fully backwards compatible with passport-jwt.",
   "main": "./lib",
   "private": false,
