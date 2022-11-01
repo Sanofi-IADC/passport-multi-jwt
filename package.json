@@ -8,9 +8,12 @@
     "test": "./node_modules/.bin/mocha --reporter spec --require test/bootstrap test/*test.js",
     "testcov": "nyc npm run test"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mikenicholson/passport-jwt.git"
+    "url": "https://github.com/sanofi-iadc/passport-multi-jwt.git"
   },
   "keywords": [
     "Passport",
